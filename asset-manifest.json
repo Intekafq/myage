@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/myage/static/css/main.993ca610.css",
+    "main.js": "/myage/static/js/main.3e1c7a88.js",
+    "static/js/787.5893bd92.chunk.js": "/myage/static/js/787.5893bd92.chunk.js",
+    "static/media/Poppins-Italic.ttf": "/myage/static/media/Poppins-Italic.e373f6163127e2d469af.ttf",
+    "static/media/Poppins-BoldItalic.ttf": "/myage/static/media/Poppins-BoldItalic.cfb635a5111b545f5598.ttf",
+    "static/media/Poppins-ExtraBoldItalic.ttf": "/myage/static/media/Poppins-ExtraBoldItalic.73d4495be63ad83b25cc.ttf",
+    "static/media/Poppins-Regular.ttf": "/myage/static/media/Poppins-Regular.35d26b781dc5fda684cc.ttf",
+    "static/media/Poppins-Bold.ttf": "/myage/static/media/Poppins-Bold.cdb29a5d7ccf57ff05a3.ttf",
+    "static/media/Poppins-ExtraBold.ttf": "/myage/static/media/Poppins-ExtraBold.01849ee091e1762a5dd5.ttf",
+    "static/media/logo.svg": "/myage/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/myage/index.html",
+    "main.993ca610.css.map": "/myage/static/css/main.993ca610.css.map",
+    "main.3e1c7a88.js.map": "/myage/static/js/main.3e1c7a88.js.map",
+    "787.5893bd92.chunk.js.map": "/myage/static/js/787.5893bd92.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.993ca610.css",
+    "static/js/main.3e1c7a88.js"
+  ]
+}
